@@ -1,4 +1,4 @@
-## Payment Splitter
+## Splitter Tab
 
 <p align="center">
 <br />
